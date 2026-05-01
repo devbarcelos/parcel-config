@@ -9,11 +9,16 @@ Professional parcel-config library.
 
 ## Installation
 ```bash
-# Install
+npm install parcel-config
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('parcel-config');
+console.log(lib);
 ```
 
+## Testing
+```bash
+npm test
+```

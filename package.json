@@ -1,1 +1,16 @@
-{"name":"parcel-config","version":"1.0.0","description":"Professional parcel-config library"}
+{
+  "name": "parcel-config",
+  "version": "1.0.0",
+  "description": "Professional parcel-config library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["parcel-config", "library", "javascript"],
+  "author": "leeydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
